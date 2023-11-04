@@ -1,0 +1,23 @@
+.event-base-container {
+    position: relative;
+    width: 20%;
+    cursor: pointer;
+}
+
+.event-base-container .eventImage {
+    width: 100%;
+    height: auto;
+}
+
+
+@media (max-width: 700px) {
+    .event-base-container {
+        width: 60%;
+    }
+}
+
+@media (max-width: 400px) {
+    .event-base-container {
+        width: 75%;
+    }
+}

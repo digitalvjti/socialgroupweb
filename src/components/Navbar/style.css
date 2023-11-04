@@ -1,0 +1,27 @@
+#navBarBrand {
+    text-decoration: none;
+    font-size: 1.4em;
+    margin-left: 2em;
+    color: white;
+}
+
+#navBar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+    backdrop-filter: blur(2px) !important;
+    background-color: rgb(53, 28, 52);
+}
+
+.nav-link {
+    color: white;
+    border-radius: 0.6rem;
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(68, 7, 46);
+    transition: 0.35s;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}

@@ -1,0 +1,1506 @@
+[
+    {
+        "id": 0,
+        "name": "Pratibimb",
+        "desc": "The cultural extravaganza of VJTI, filled with joy and innumerable memories, Pratibimb is a  reflection of pulsating energy, infectious enthusiasm, heartwarming fellowship, winning attitudes, crazy moments, and wonderful times! It continues to provide an attractive platform for showcasing the fresh talent that college students have within them. Spanning three fun-filled days of the festival, there are contests and workshops, encompassing everything from art to music and dance. For those who like an intellectual challenge, there is a range of events to test their skills in the literary arts and managerial area. Pratibimb is the annual national-level cultural extravaganza of VJTI, which musters a huge enthusiastic crowd every year. Many events add to the glory of Pratibimib. Illuminati is the inter branch competition at Pratibimb VJTI. All the branches engage in a fierce battle against each other via tasks allocated to them during the course of the year. These tasks span over a variety of genres. Right from art and craft to singing, dancing, drama, quizzes and many many more. All the students zealously participate in all these events to bag points for their branch and the branch with the most points at the end of the 4 day cultural festival wins the prestigious Illuminati Cup. This year's theme for Illuminati is 'Turn it into Art.' Mumbai’s Got Talent - Talent from the City of Dreams, comes on the vibrant stage of Pratis very own Mumbai’s Got Talent. Dancers, Musicians, Acrobats and performers showcase their talent and zest, in this event. Groove to the rhythms of music, immerse yourself in those nights and etch countless memories in your heats with the amazing concerts of Pratibimb.",
+        "logo": "/Assets/Allimages/Pratibimb/prati.png",
+        "dates": "16th February - 19th February 2023",
+        "link": "https://pratibimbvjti.com/",
+        "sponsors": [
+            {
+                "id": 1,
+                "stitle": "MAC V",
+                "simg": "/Assets/Allimages/Pratibimb/Sponsor/1.png"
+            },
+            {
+                "id": 2,
+                "stitle": "IMPERIAL",
+                "simg": "/Assets/Allimages/Pratibimb/Sponsor/2.png"
+            },
+            {
+                "id": 3,
+                "stitle": "FIRE WINGS",
+                "simg": "/Assets/Allimages/Pratibimb/Sponsor/3.png"
+            },
+            {
+                "id": 4,
+                "stitle": "THEKA COFFEE",
+                "simg": "/Assets/Allimages/Pratibimb/Sponsor/4.png"
+            },
+            {
+                "id": 5,
+                "stitle": "THE CREAMY LAYER",
+                "simg": "/Assets/Allimages/Pratibimb/Sponsor/5.png"
+            }
+        ],
+        "psponsors": [
+            {
+                "id": 1,
+                "pimg": "/Assets/Allimages/Pratibimb/Psponsor/1.png"
+            }
+        ],
+        "events": [
+            {
+                "id": 1,
+                "hname": "DC-SR Wars",
+                "edescription": "After having successfully represented your branch, it's time to compete against one another Yes!! It's time for the DC/SR wars!!",
+                "edate": "15-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/dcsr.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            },
+            {
+                "id": 2,
+                "hname": "Final Year Dance",
+                "edescription": "One last time-One last dance",
+                "edate": "19-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/finalyear.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            },
+            {
+                "id": 3,
+                "hname": "Goonj",
+                "edescription": "An Illuminati singing event",
+                "edate": "19-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/goonj.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            },
+            {
+                "id": 4,
+                "hname": "Pratistaan",
+                "edescription": "An Illuminati stand up event",
+                "edate": "18-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/pratistaan.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            },
+            {
+                "id": 5,
+                "hname": "Swartarang",
+                "edescription": "An Illuminati instrumental music event",
+                "edate": "19-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/swatarang.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            },
+            {
+                "id": 6,
+                "hname": "Upside Down",
+                "edescription": "An Illuminati fashion show event",
+                "edate": "18-02-2023",
+                "eimg": "/Assets/Allimages/Pratibimb/Event/upside.jpeg",
+                "elink": "https://pratibimbvjti.com/events"
+            }
+        ],
+        "head": [
+            {
+                "id": 0,
+                "hname": "Mihir Ghanekar",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/Pratibimb/Head/Mihir Ghanekar.png"
+            },
+            {
+                "id": 1,
+                "hname": "Nandini Bhosale",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/Pratibimb/Head/Nandini Bhosale.png"
+            },
+            {
+                "id": 2,
+                "hname": "Anandita Bummerkar",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/Pratibimb/Head/Anandita Bummerkar.png"
+            }
+        ],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/1_11zon.png"
+            },
+            {
+                "id": 2,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/2_11zon.png"
+            },
+            {
+                "id": 3,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/3_11zon.png"
+            },
+            {
+                "id": 4,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/6_11zon.png"
+            },
+            {
+                "id": 5,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/7_11zon.png"
+            },
+            {
+                "id": 6,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/9_11zon.png"
+            },
+            {
+                "id": 7,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/10_11zon.png"
+            },
+            {
+                "id": 8,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/12_11zon.png"
+            },
+            {
+                "id": 9,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/13_11zon.png"
+            },
+            {
+                "id": 10,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/14_11zon.png"
+            },
+            {
+                "id": 11,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/15_11zon.png"
+            },
+            {
+                "id": 12,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/16_11zon.png"
+            },
+            {
+                "id": 13,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/17_11zon.png"
+            },
+            {
+                "id": 14,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/18_11zon.png"
+            },
+            {
+                "id": 15,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/19_11zon.png"
+            },
+            {
+                "id": 16,
+                "hname": "Pratibimb",
+                "himg": "/Assets/Allimages/Pratibimb/Egallery/20_11zon.png"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Technovanza",
+        "dates": "24th February - 26th February 2023.",
+        "link": "https://technovanza.org/",
+        "logo": "/Assets/Allimages/Technovanza/technovanza.png",
+        "desc": "Technovanza, the premiere technical group initiative of the VJTI Social Group, is one of Asia's Largest Techno-Manegerial Festival; boasting a gigantic footfall of 75000+ consisting of 40% corporate and executive crowd, the student body crowd covering 500+ colleges and an equally staggering digital presence of approximately 70,000+ social media followers. Our prime time motto, 'Taking Technology to Society'​, one that was bestowed upon us by The 11th President of India Late Dr. A P J Abdul Kalam, has been the founding stone on which the slabs of scientific acumen, the walls of healthy competition and the finishing paint of technological excellence have rendered the extravagant structure of an enhancing student body. A groundbreaking line up of outstanding speakers, both international and domestic, every year at the VJTI Guest Lecture Series, is the cherry on top of the cake of insight. Equally stringent have been Technovanza's efforts to spark unrestrained, yet healthy competition between participants over the expanse of 20+ events. Technovanza intends to bring it's theme into rightful application, which is precisely why the community has been a premiere homeground for social initiatives like Mission Mumbai and Pratigya, to enhance the quality of human resource dwelling in the world of today.",
+        "events": [
+            {
+                "id": 1,
+                "hname": "Whodunnit",
+                "edescription": "We present you our National Level Hackathon, REFAKTOR, a platform to put your imagination against...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/whodunnit-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 2,
+                "hname": "Aqua",
+                "edescription": "VRC stands for VJTI Robotics Challenge, one of the very popular and respected competitions conducted...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/aqua-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 3,
+                "hname": "Checkhacker",
+                "edescription": "Brace yourself, for the warrior within is set to align with the brute outside. For the flames of war...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/checkhacker-min.jpg",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 4,
+                "hname": "Codefine",
+                "edescription": "ROBOSUMO, a battle of toughness,power, and sheer determination to withstand everything that comes...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/codefine-min.jpg",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 5,
+                "hname": "Codingsurfers",
+                "edescription": "In the world of cosmos, you and your team now have a chance to be astronauts and explore the...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/codingsurfers-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 6,
+                "hname": "Escape room",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/escaperoom-min.jpg",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 7,
+                "hname": "Escape the catacombs",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/etc-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 8,
+                "hname": "Monsterarena",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/monsterarena-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 9,
+                "hname": "Refaktor",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/refaktor-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 10,
+                "hname": "Robosoccer",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/robosoccer-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 11,
+                "hname": "Robostrike",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/robostrike-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 12,
+                "hname": "Robosumo",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/robosumo-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 13,
+                "hname": "Robowars",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/robowars-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 14,
+                "hname": "Scigenix",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/scigenix-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 15,
+                "hname": "Smart City",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/smartcity-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 16,
+                "hname": "Technoquaser",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "24-02-2023 to 25-02-2023",
+                "eimg": "/Assets/Allimages/Technovanza/Event/technoquaser-min.png",
+                "elink": "https://www.technovanza.org/events"
+            },
+            {
+                "id": 17,
+                "hname": "VRC",
+                "edescription": "Technovanza presents you an opportunity to put forward your thoughts on creating a smarter future...",
+                "edate": "TBD",
+                "eimg": "/Assets/Allimages/Technovanza/Event/vrc-min.png",
+                "elink": "https://www.technovanza.org/events"
+            }
+        ],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/1.png"
+            },
+            {
+                "id": 2,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/2.png"
+            },
+            {
+                "id": 3,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/3.png"
+            },
+            {
+                "id": 4,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/4.png"
+            },
+            {
+                "id": 5,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/5.png"
+            },
+            {
+                "id": 6,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/6.png"
+            },
+            {
+                "id": 7,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/7.png"
+            },
+            {
+                "id": 8,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/11.png"
+            },
+            {
+                "id": 9,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/3.jpg"
+            },
+            {
+                "id": 10,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/5.jpg"
+            },
+            {
+                "id": 11,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/13.jpg"
+            },
+            {
+                "id": 12,
+                "hname": "Technovanza",
+                "himg": "/Assets/Allimages/Technovanza/Egallery/14.jpg"
+            }
+        ],
+        "sponsors": [
+            {
+                "id": 1,
+                "simg": "/Assets/Allimages/Technovanza/Sponsor/asec eng.png",
+                "stitle": "ASEC ENGINEERS"
+            },
+            {
+                "id": 2,
+                "simg": "/Assets/Allimages/Technovanza/Sponsor/calton paint.png",
+                "stitle": "CALTON PAINT"
+            },
+            {
+                "id": 3,
+                "simg": "/Assets/Allimages/Technovanza/Sponsor/rajguru electronics.png",
+                "stitle": "RAJGURU ELECTRONICS"
+            },
+            {
+                "id": 4,
+                "simg": "/Assets/Allimages/Technovanza/Sponsor/witbox.png",
+                "stitle": "WITBOX"
+            }
+        ],
+        "psponsors": [
+            {
+                "id": 1,
+                "pimg": "/Assets/Allimages/Technovanza/Psponsor/pastspons1.jpg"
+            },
+            {
+                "id": 2,
+                "pimg": "/Assets/Allimages/Technovanza/Psponsor/pastspons2.jpg"
+            },
+            {
+                "id": 3,
+                "pimg": "/Assets/Allimages/Technovanza/Psponsor/pastspons3.jpg"
+            }
+        ],
+        "head": [
+            {
+                "id": 1,
+                "himg": "/Assets/Allimages/Technovanza/Head/Akshay Phalke.jpg",
+                "htitle": "Chief Webdev Officer",
+                "hname": "Akshay Phalke"
+            },
+            {
+                "id": 2,
+                "himg": "/Assets/Allimages/Technovanza/Head/Atharva Jadhav.jpg",
+                "htitle": "Chief Technovanza Advisor",
+                "hname": "Atharva Jadhav"
+            },
+            {
+                "id": 3,
+                "himg": "/Assets/Allimages/Technovanza/Head/Ayushi Wakode.jpg",
+                "htitle": "Internal Publicity Officer",
+                "hname": "Ayushi Wakode"
+            },
+            {
+                "id": 4,
+                "himg": "/Assets/Allimages/Technovanza/Head/Janesh Swami.jpg",
+                "htitle": "Chief Operations Officer",
+                "hname": "Janesh Swami"
+            },
+            {
+                "id": 5,
+                "himg": "/Assets/Allimages/Technovanza/Head/Kaustubh Mahajan.jpg",
+                "htitle": "Secretary",
+                "hname": "Kaustubh Mahajan"
+            },
+            {
+                "id": 6,
+                "himg": "/Assets/Allimages/Technovanza/Head/Meloni Patel.jpg",
+                "htitle": "Chief Financial Officer",
+                "hname": "TMeloni Patel"
+            },
+            {
+                "id": 7,
+                "himg": "/Assets/Allimages/Technovanza/Head/Parina Jain.jpg",
+                "htitle": "Chief Operations Officer",
+                "hname": "Parina Jain"
+            },
+            {
+                "id": 8,
+                "himg": "/Assets/Allimages/Technovanza/Head/Pradeep Bhandari.jpg",
+                "htitle": "Chief VMCO Officer",
+                "hname": "Pradeep Bhandari"
+            },
+            {
+                "id": 9,
+                "himg": "/Assets/Allimages/Technovanza/Head/Radhika Bandivadekar.jpg",
+                "htitle": "Chief VMCO Officer",
+                "hname": "Radhika Bandivadekar"
+            },
+            {
+                "id": 10,
+                "himg": "/Assets/Allimages/Technovanza/Head/Rushabh Jain.jpg",
+                "htitle": "Chief PR Officer",
+                "hname": "Rushabh Jain"
+            },
+            {
+                "id": 11,
+                "himg": "/Assets/Allimages/Technovanza/Head/Sakshi Patil.jpg",
+                "htitle": "Chief Design Officer",
+                "hname": "Sakshi Patil"
+            },
+            {
+                "id": 12,
+                "himg": "/Assets/Allimages/Technovanza/Head/Sakshi Waskar.jpg",
+                "htitle": "Chief Sponsorship Officer",
+                "hname": "Sakshi Waskar"
+            },
+            {
+                "id": 13,
+                "himg": "/Assets/Allimages/Technovanza/Head/Samarth Wasadkar.jpg",
+                "htitle": "Internal Publicity Officer",
+                "hname": "Samarth Wasadkar"
+            },
+            {
+                "id": 14,
+                "himg": "/Assets/Allimages/Technovanza/Head/Samruddhi Darak.jpg",
+                "htitle": "Secretary",
+                "hname": "Samruddhi Darak"
+            },
+            {
+                "id": 15,
+                "himg": "/Assets/Allimages/Technovanza/Head/Tanmay Navandar.jpg",
+                "htitle": "Chief Marketing Officer",
+                "hname": "Tanmay Navandar"
+            },
+            {
+                "id": 16,
+                "himg": "/Assets/Allimages/Technovanza/Head/Yash Gala.jpg",
+                "htitle": "Secretary",
+                "hname": "Yash Gala"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Rangawardhan",
+        "desc": "Rangawardhan VJTI is a Marathi cultural group working for preservation and promotion of Marathi culture and language for the past 21 years. This festival encourages growth of Maharashtrian culture and appreciation of Marathi artists and dignitaries who did commendable work in their field. Marathi actors are invited and appreciated for their work. Rangawardhan has engraved its name in Mumbai’s most popular cultural events, adding to more than 10k footfall for the festival every year. It has encouraged Marathi literature and arranged various events for Marathi poetry, drama, street plays, folk dance, one act plays, music etc.",
+        "logo": "/Assets/Allimages/Rangwardhan/Rangwardhan Logo.png",
+        "dates": "19 February - 21 February 2023.",
+        "link": "https://rangawardhan.in/",
+        "sponsors": [
+            {
+                "id": 1,
+                "stitle": "State Bank Of India",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/sbi.jpg"
+            },
+            {
+                "id": 2,
+                "stitle": "Life Insurance Corporation",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/lic.webp"
+            },
+            {
+                "id": 3,
+                "stitle": "Maharashtra Times",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/times.png"
+            },
+            {
+                "id": 4,
+                "stitle": "ShareChat",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/sharechat.png"
+            },
+            {
+                "id": 5,
+                "stitle": "M-Indicator",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/mindicator.png"
+            },
+            {
+                "id": 6,
+                "stitle": "Sakal",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/sakal.png"
+            },
+            {
+                "id": 7,
+                "stitle": "Mayaboli",
+                "simg": "/Assets/Allimages/Rangwardhan/Sponsor/myboli.png"
+            }
+        ],
+        "events": [
+            {
+                "id": 1,
+                "hname": "BhavananchePaan",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/bhavananchePaan.webp",
+                "edescription": "Rangvardhan, who has been glorifying Marathi for many years, is all set to create a new history in 2022-23. Marathi BIG BOSS Mahesh Manjrekar sir witnessed the opening ceremony of this golden season. After that, Natyavardhan's one act Harlequin gave a new zest to the opening! Done and a new Marathi chapter started.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 2,
+                "hname": "Ekkissa",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/ekKissa.webp",
+                "edescription": "Rangawardhan VJTI is a Marathi cultural group working for preservation and promotion of Marathi culture and language for the past 21 years. This festival encourages growth of Maharashtrian culture and appreciation of Marathi artists and dignitaries who did commendable work in their field. Marathi actors are invited and appreciated for their work. Rangawardhan has engraved its name in Mumbai’s most popular cultural events, adding to more than 10k footfall for the festival every year. It has encouraged Marathi literature and arranged various events for Marathi poetry, drama, street plays, folk dance, one act plays, music etc. Rangawardhan has been graced by the scintillating presence of influential Marathi artists, actors, sportspersons, singers. Some of them were honorable social worker Sindhu Tai Sapkal, Dr. Prakash Baba Amte, actors and Marathi film directors like Mahesh Kothare, Sandeep Pathak, Vijay Pathkar, Sunil Barve, Subodh Bhave. Rangawardhan has hosted many influential personalities like Mr.Vishwas Nangre Patil, Dr. Jayant Narlikar, Supriya Sule. Rangawardhan has also hosted a lot of successful events and was sponsored by renowned organizations like Sakal, LIC, Samana, Maharashtra Times, TIME, SBI, Sharechat, m-indicator, Maiboli marathi channel, Canon and a lot more. Rangawardhan has witnessed graceful participation of students.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 3,
+                "hname": "Ekpatri",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/Ekpatri.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "20/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 4,
+                "hname": "JaraHatke",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/JaraHatke.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 5,
+                "hname": "Kavadsa",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/Kavadsa.jpg",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "21/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 6,
+                "hname": "Kavyamrut",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/Kavyamrut.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 7,
+                "hname": "Mithak",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/mithak.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 8,
+                "hname": "Pathanatya",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/Pathanatya.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "20/02/23",
+                "elink": "https://rangawardhan.in/events"
+            },
+            {
+                "id": 9,
+                "hname": "Patkatha",
+                "eimg": "/Assets/Allimages/Rangwardhan/Event/Patkatha.webp",
+                "edescription": "By introducing each other and strengthening the Rangwardhan family of 2022-23, a program of Bhatkanti was planned to make the journey a joyous one.",
+                "edate": "15/02/23",
+                "elink": "https://rangawardhan.in/events"
+            }
+        ],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/DSC_0022.JPG"
+            },
+            {
+                "id": 2,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/DSC_0038.JPG"
+            },
+            {
+                "id": 3,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/DSC_0174.JPG"
+            },
+            {
+                "id": 4,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/IMG_0111.JPG"
+            },
+            {
+                "id": 5,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/IMG_9147.JPG"
+            },
+            {
+                "id": 6,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/IMG_9227.JPG"
+            },
+            {
+                "id": 7,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/IMG_9323.JPG"
+            },
+            {
+                "id": 8,
+                "hname": "Rangwardhan",
+                "himg": "/Assets/Allimages/Rangwardhan/Egallery/IMG_9455.JPG"
+            }
+        ],
+        "psponsors": [
+            {
+                "id": 1,
+                "pimg": "/Assets/Allimages/Rangwardhan/Psponsor/spons.png"
+            }
+        ],
+        "head": [
+            {
+                "id": 0,
+                "hname": "Aditi Patil",
+                "htitle": "Chief Content Writing Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Aditi Patil.jpeg"
+            },
+            {
+                "id": 1,
+                "hname": "Alok Bandichode",
+                "htitle": "Chief Design Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/ALOK BANDICHODE.jpg"
+            },
+            {
+                "id": 2,
+                "hname": "Amol Jethe",
+                "htitle": "Chief Execution Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Amol Jethe.jpg"
+            },
+            {
+                "id": 3,
+                "hname": "Ayush Banait",
+                "htitle": "Chief Public Relation Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Ayush Banait.jpg"
+            },
+            {
+                "id": 4,
+                "hname": "Kalyani Shirsath",
+                "htitle": "Chief Coordinators",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Kalyani Shrisath.jpeg"
+            },
+            {
+                "id": 5,
+                "hname": "Kashyap Chavhan",
+                "htitle": "Treasurer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Kashyap chavhan.jpg"
+            },
+            {
+                "id": 6,
+                "hname": "Pranjal Jadhav",
+                "htitle": "Chief Content Writing Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/PRANJAL JADHAV.jpg"
+            },
+            {
+                "id": 7,
+                "hname": "Ruie Joshi",
+                "htitle": "Chief Marketing Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Ruie Joshi.jpeg"
+            },
+            {
+                "id": 8,
+                "hname": "Shrishail Dolle",
+                "htitle": "Chief Execution Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Shrishail Dolle - Shrishail Dolle.jpg"
+            },
+            {
+                "id": 9,
+                "hname": "Tejashree Shinde",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/Tejashree Shinde.jpg"
+            },
+            {
+                "id": 10,
+                "hname": "Vinayak Sonawane",
+                "htitle": "Chief Marketing Officer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/VINAYAK SONAWANE.jpg"
+            },
+            {
+                "id": 11,
+                "hname": "Yuvraj Kharat",
+                "htitle": "Treasurer",
+                "himg": "/Assets/Allimages/Rangwardhan/Head/YUVRAJ KHARAT.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "DLA",
+        "logo": "/Assets/Allimages/DLA/dla.jpg",
+        "desc": "DLA stands for Debate and Literary Activities Club of VJTI.It is an extremely chill, close-knit community of like-minded individuals who share a common interest in debates, books, performing arts and similar activities. DLA is a place where your thoughts meet paper, where your ideas meet fruition, where your opinions find a voice, and where literature meets a unique sense of humor. DLA also hosts a multitude of events in the field of literary and performing arts to cultivate a community of passionate individuals who ardently share their enthusiasm for literature.To mark a step forward, this year, DLA held its very first Fest (i e) the LitFest and was honored by the presence of our phenomenal guest, Ms. Ami Ganatra who is an author, a devout yoga practitioner and a student of sanskrit and Indian Knowledge systems at the inaugural year of Litfest.",
+        "dates": "The Litfest was held on 19,20,21 and 22nd of Jan, 2023.",
+        "link": "https://instagram.com/dla_vjti?igshid=NTdlMDg3MTY=",
+        "events": [
+            {
+                "id": 1,
+                "hname": "OPEN MIC",
+                "edescription": "DLA provides a platform to all the students from VJTI and beyond to exhibit their talent in the Open Mic. Multitude of performances ranging from poetry, stand ups, story telling, singing and band performances are encouraged and promoted here.",
+                "edate": "22-01-2023",
+                "eimg": "/Assets/Allimages/DLA/Event/openmic.jpeg",
+                "elink": "https://linktr.ee/Litfest2023?fbclid=PAAaaa0-VrkKvAOEpFggxaYVuX5gTuv9IH3P9iX3fKItkmtuErhySZh-MN3qU"
+            },
+            {
+                "id": 2,
+                "hname": "BOOK CLUB",
+                "edescription": "Book Club is a place for all the bibliophiles across the campus to meet and offer their perspectives and have healthy conversations over an amazing book of everyone's choice. While there, you can share your thoughts and opinions, get intellectually stimulated and have loads and loads of fun !",
+                "edate": "12-02-2022",
+                "eimg": "/Assets/Allimages/DLA/Event/bookclub.jpeg",
+                "elink": "https://instagram.com/dla_vjti?igshid=NTdlMDg3MTY="
+            },
+            {
+                "id": 3,
+                "hname": "FY QUIZ",
+                "edescription": "It is one of the most sought after and anticipated events where all the quizzing enthusiasts from the freshers bid against each other to answer questions from all the domains like current affairs, sports, food, films, fictions, history etc. The FY Quiz plays a key role in the resurgence of quizzing and other literary events in VJTI.",
+                "edate": "15-09-2022",
+                "eimg": "/Assets/Allimages/DLA/Event/dlalaunch.jpeg",
+                "elink": "https://instagram.com/dla_vjti?igshid=NTdlMDg3MTY="
+            },
+            {
+                "id": 4,
+                "hname": "VJMUN",
+                "edescription": "M.U.N. stands for Model United Nations. It is an academic simulation of the United Nations where students play the role of delegates from different countries and attempt to resolve real world issues with the policies and perspectives of their assigned country.\\nVJMUN provides an excellent opportunity to discuss and debate awesome topics ranging from politics, human rights to deescalating wars ! Exposure to top debaters adds an important skill to your skillset.\\nVJMUN has stood the test of time, making it one  of the oldest MUNs in Mumbai today. Generations have joined and left feeling satisfied and more confident than ever before. An active MUN delegation only means excellent exposure to all the veterans that have come before us !",
+                "edate": "21-01-2023 to 22-01-2023",
+                "eimg": "/Assets/Allimages/DLA/Event/vjmun.jpeg",
+                "elink": "https://linktr.ee/Litfest2023?fbclid=PAAaaa0-VrkKvAOEpFggxaYVuX5gTuv9IH3P9iX3fKItkmtuErhySZh-MN3qU"
+            }
+        ],
+        "sponsors": [
+            {
+                "id": 1,
+                "simg": "/Assets/Allimages/DLA/Sponsor/impressions.jpg",
+                "stitle": "IMPRESSIONS ID"
+            },
+            {
+                "id": 2,
+                "simg": "/Assets/Allimages/DLA/Sponsor/booksbykilo.jpg",
+                "stitle": "BOOKS BY KILO"
+            },
+            {
+                "id": 3,
+                "simg": "/Assets/Allimages/DLA/Sponsor/brijeel.jpg",
+                "stitle": "BRIJEEL AQUA"
+            },
+            {
+                "id": 4,
+                "simg": "/Assets/Allimages/DLA/Sponsor/olfactory.jpg",
+                "stitle": "OLFACTORY"
+            },
+            {
+                "id": 5,
+                "simg": "/Assets/Allimages/DLA/Sponsor/paperdolphin.jpg",
+                "stitle": "THE PAPER DOLPHIN"
+            }
+        ],
+        "psponsors": [],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "VJMUN",
+                "himg": "/Assets/Allimages/DLA/Egallery/1.jpg"
+            },
+            {
+                "id": 2,
+                "hname": "VJMUN",
+                "himg": "/Assets/Allimages/DLA/Egallery/2.jpg"
+            },
+            {
+                "id": 3,
+                "hname": "Open Mic",
+                "himg": "/Assets/Allimages/DLA/Egallery/3.JPG"
+            },
+            {
+                "id": 4,
+                "hname": "Open Mic",
+                "himg": "/Assets/Allimages/DLA/Egallery/4.JPG"
+            }
+        ],
+        "head": [
+            {
+                "id": 1,
+                "himg": "/Assets/Allimages/DLA/Head/Vedangi Patil_ Secretary_.jpg",
+                "htitle": "Secretary",
+                "hname": "Vedangi Patil",
+                "llink": "https://www.linkedin.com/in/vedangi-patil-36418a22a",
+                "glink": "vapatil_b20@el.vjti.ac.in"
+            },
+            {
+                "id": 2,
+                "himg": "/Assets/Allimages/DLA/Head/Siddhant Chandan_Joint Secretary.jpg",
+                "htitle": "Joint Secretary",
+                "hname": "Siddhant Chandan",
+                "llink": "https://www.linkedin.com/in/siddhant-chandan-20893a253",
+                "glink": "sschandan_b20@pe.vjti.ac.in"
+            },
+            {
+                "id": 3,
+                "himg": "/Assets/Allimages/DLA/Head/Harsh_treasurer.jpg",
+                "htitle": "Treasurer",
+                "hname": "Harsh Kavi",
+                "llink": "https://www.linkedin.com/in/harsh-kavi-571405204",
+                "glink": ""
+            },
+            {
+                "id": 4,
+                "himg": "/Assets/Allimages/DLA/Head/OmSheladia_LogisticsHead1.jpg",
+                "htitle": "Logistics Head",
+                "hname": "Om Sheladia",
+                "llink": "https://www.linkedin.com/in/om-sheladia-227a96200",
+                "glink": "ogsheladia_b20@el.vjti.ac.in"
+            },
+            {
+                "id": 5,
+                "himg": "/Assets/Allimages/DLA/Head/Nikita Pendam_Nirman Head.jpg",
+                "htitle": "Nirmaan Head",
+                "hname": "Nikita Pendam",
+                "llink": "https://www.linkedin.com/in/nikita-pendam-48194a239",
+                "glink": "nrpendam_b21@it.vjti.ac.in"
+            },
+            {
+                "id": 6,
+                "himg": "/Assets/Allimages/DLA/Head/Kalyani Kasar_Design Head.jpg",
+                "htitle": "Design Head",
+                "hname": "Kalyani Kasar",
+                "llink": "https://www.linkedin.com/in/kalyani-kasar-120774212",
+                "glink": "kmkasar_b20@el.vjti.ac.in"
+            },
+            {
+                "id": 7,
+                "himg": "/Assets/Allimages/DLA/Head/Parth Chopade_Marketing Head.jpg",
+                "htitle": "Marketing Head",
+                "hname": "Parth Chopade",
+                "llink": "https://www.linkedin.com/in/parth-chopade-760294223",
+                "glink": "ppchopade_b20@pe.vjti.ac.in"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Enthusia",
+        "link": "https://www.enthusiavjti.in",
+        "dates": "25th  January - 8th February 2023.",
+        "desc": "Enthusia, the premier sports committee of one of the prime colleges of Mumbai and Maharashtra, VJTI (Veermata Jijabai Technological Institute), currently the th 4th largest sports festival in India. We, at VJTI, are fortunate to have a basketball court, cricket ground, football ground, and an indoor and outdoor Gymnasium. ENTHUSIA is the annual grand level sports fest which attracts about 20-25k people from 100 different colleges accross the state. Our prime motto, “We are One Team putting our efforts into One Heart to maintain  One Legacy of excellence in sports. From getting inspired from 'Milka Singh' to being the building stone on laying the slabs of sports in our prestigious college in 2009.  2023 being the 14th  year of pride in sports run by the extravagant structure of the enhancing student body.  Enthusia main aim is to spark free and healthy competition over an expanse of 15+ events which tests the ability of the studints to prove their dedication to winning and strategise about execution which will without a doubt make them the best of all. We organise a marathon and a cyclothon every year to raise awareness about different important issues in the country. For a college based festival that is made by the students for the students, Enthusia welcomes everyone who wishes to be a part of this fun filled event that will intends to bring the community together through sports.",
+        "logo": "/Assets/Allimages/Enthusia/enthusia.jpg",
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/1 (1).jpg"
+            },
+            {
+                "id": 2,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/1.jpg"
+            },
+            {
+                "id": 3,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/2 (1).jpg"
+            },
+            {
+                "id": 4,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/3 (1).jpg"
+            },
+            {
+                "id": 5,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/3.jpg"
+            },
+            {
+                "id": 6,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/4 (1).jpg"
+            },
+            {
+                "id": 7,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/4.jpg"
+            },
+            {
+                "id": 8,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/5 (1).jpg"
+            },
+            {
+                "id": 9,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/5.jpg"
+            },
+            {
+                "id": 10,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/6 (1).jpg"
+            },
+            {
+                "id": 11,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/6.jpg"
+            },
+            {
+                "id": 12,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/7 (1).jpg"
+            },
+            {
+                "id": 13,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/7.jpg"
+            },
+            {
+                "id": 14,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/8 (1).jpg"
+            },
+            {
+                "id": 15,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/8.jpg"
+            },
+            {
+                "id": 16,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/9 (1).jpg"
+            },
+            {
+                "id": 17,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/9.jpg"
+            },
+            {
+                "id": 18,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/10.jpg"
+            },
+            {
+                "id": 19,
+                "hname": "Enthusia",
+                "himg": "/Assets/Allimages/Enthusia/Egallery/11.jpg"
+            }
+        ],
+        "events": [
+            {
+                "id": 1,
+                "hname": "Marathon",
+                "edescription": "05-02-2023",
+                "edate": "31-01-2023 to 03-02-2023",
+                "eimg": "/Assets/Allimages/Enthusia/Event/1.jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            },
+            {
+                "id": 2,
+                "hname": "Cyclothon",
+                "edescription": "",
+                "edate": "15-01-2023",
+                "eimg": "/Assets/Allimages/Enthusia/Event/2.jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            },
+            {
+                "id": 3,
+                "hname": "Table Tennis",
+                "edescription": "",
+                "edate": "26-01-2023 to 01-02-2023",
+                "eimg": "/Assets/Allimages/Enthusia/Event/2(1).jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            },
+            {
+                "id": 4,
+                "hname": "Basketball",
+                "edescription": "",
+                "edate": "26-01-2023 to 01-02-2023",
+                "eimg": "/Assets/Allimages/Enthusia/Event/3.jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            },
+            {
+                "id": 5,
+                "hname": "Football",
+                "edescription": "",
+                "edate": "26-01-2023 to 01-02-2023",
+                "eimg": "/Assets/Allimages/Enthusia/Event/4.jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            },
+            {
+                "id": 6,
+                "hname": "Indian Cancer Society",
+                "edescription": "",
+                "edate": "-",
+                "eimg": "/Assets/Allimages/Enthusia/Event/5.jpg",
+                "elink": "https://www.enthusiavjti.in/events"
+            }
+        ],
+        "sponsors": [
+            {
+                "id": 1,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/1.jpg",
+                "stitle": "DECATHLON"
+            },
+            {
+                "id": 2,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/2.jpg",
+                "stitle": "BERRAR BIO-TECH"
+            },
+            {
+                "id": 3,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/3.jpg",
+                "stitle": "CIS THETA"
+            },
+            {
+                "id": 4,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/4.jpg",
+                "stitle": "NAVRATNA INFRA"
+            },
+            {
+                "id": 5,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/5.jpg",
+                "stitle": "WILD AND OUT"
+            },
+            {
+                "id": 6,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/6.jpg",
+                "stitle": "VJTI TBI"
+            },
+            {
+                "id": 7,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/7.jpg",
+                "stitle": "MICRO LABS"
+            },
+            {
+                "id": 8,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/8.jpg",
+                "stitle": "LOKMAT"
+            },
+            {
+                "id": 9,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/9.jpg",
+                "stitle": "MUSCLEBLAZE"
+            },
+            {
+                "id": 10,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/10.jpg",
+                "stitle": "FRESH PRESS"
+            },
+            {
+                "id": 11,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/11.jpg",
+                "stitle": "HELL"
+            },
+            {
+                "id": 12,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/12.jpg",
+                "stitle": "ICECREAM BAKERY"
+            },
+            {
+                "id": 13,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/13.jpg",
+                "stitle": "MESSY ADDAA"
+            },
+            {
+                "id": 14,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/14.jpg",
+                "stitle": "ICS"
+            },
+            {
+                "id": 15,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/15.jpg",
+                "stitle": "PLAYER ORBIT"
+            },
+            {
+                "id": 16,
+                "simg": "/Assets/Allimages/Enthusia/Sponsor/16.jpg",
+                "stitle": "KWALITY"
+            }
+        ],
+        "psponsors": [
+            {
+                "id": 1,
+                "pimg": "/Assets/Allimages/Enthusia/Psponsor/Past Spons.jpg"
+            }
+        ],
+        "head": [
+            {
+                "id": 1,
+                "himg": "/Assets/Allimages/Enthusia/Head/Aaditya Joshi.jpg",
+                "htitle": "Secretary",
+                "hname": "Aaditya Joshi",
+                "llink": "https://www.linkedin.com/in/aadityajoshi35",
+                "glink": ""
+            },
+            {
+                "id": 2,
+                "himg": "/Assets/Allimages/Enthusia/Head/Aditi Khadse.jpg",
+                "htitle": "Secretary",
+                "hname": "Aditi Khadse",
+                "llink": "https://www.linkedin.com/in/aditi-khadse-7b1908231",
+                "glink": ""
+            },
+            {
+                "id": 3,
+                "himg": "/Assets/Allimages/Enthusia/Head/Diya Rajeevan.jpg",
+                "htitle": "Executive Director",
+                "hname": "Diya Rajeevan",
+                "llink": "https://www.linkedin.com/in/diya-rajeevan-b77a8920a",
+                "glink": ""
+            },
+            {
+                "id": 4,
+                "himg": "/Assets/Allimages/Enthusia/Head/Kratin Jain.jpg",
+                "htitle": "Secretary",
+                "hname": "Kratin Jain",
+                "llink": "https://www.linkedin.com/in/kratin-jain-20764322b",
+                "glink": ""
+            },
+            {
+                "id": 5,
+                "himg": "/Assets/Allimages/Enthusia/Head/Pratiksha Naik.jpg",
+                "htitle": "PR Head",
+                "hname": "Pratiksha Naik",
+                "llink": "https://www.linkedin.com/in/pratiksha-naik-073953213",
+                "glink": ""
+            },
+            {
+                "id": 6,
+                "himg": "/Assets/Allimages/Enthusia/Head/Shalvi Bhoyar.jpg",
+                "htitle": "PR Head",
+                "hname": "Shalvi Bhoyar",
+                "llink": "https://www.linkedin.com/in/shalvi-bhoyar-24b691231",
+                "glink": ""
+            },
+            {
+                "id": 7,
+                "himg": "/Assets/Allimages/Enthusia/Head/Shreyas Bhatlawnade.jpg",
+                "htitle": "PR Head",
+                "hname": "Shreyas Bhatlawnade",
+                "llink": "https://www.linkedin.com/in/shreyas-bhatlawande-7936b8247",
+                "glink": ""
+            },
+            {
+                "id": 8,
+                "himg": "/Assets/Allimages/Enthusia/Head/Udit Dhankar.jpg",
+                "htitle": "PR Head",
+                "hname": "Udit Dhankar",
+                "llink": "https://www.linkedin.com/in/udit-kumar-dhankar-5309aa237",
+                "glink": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Digital VJTI",
+        "desc": "Digital VJTI is the golden string which woves all our jewels, our committees together.This committee is the backend of VJTI Social Group and hosts numerous activities with its collaboration. Digital VJTI is a budding platform for content creators, video editors and photographers to thrive. It also holds workshops on this skillsets for beginners who want to be a part of this amazing space.Digital VJTI assists other committees in video editing, poster designing and creating social media posts.The talented photographers of Digital VJTI cover all the events and gatherings of other committees.",
+        "logo": "/Assets/Allimages/Digital/digital.png",
+        "dates": "18 November 2022",
+        "link": "https://instagram.com/digital.vjti?igshid=NTdlMDg3MTY=",
+        "sponsors": [],
+        "events": [
+            {
+                "id": 1,
+                "hname": "Hackathon",
+                "eimg": "/Assets/Allimages/Digital/Event/1.jpeg",
+                "edate": "13/01/2023 to 14/01/2023",
+                "elink": "https://instagram.com/digital.vjti?igshid=NTdlMDg3MTY="
+            },
+            {
+                "id": 2,
+                "hname": "Blood Donation Camp",
+                "eimg": "/Assets/Allimages/Digital/Event/2.jpeg",
+                "edate": "17/01/2023",
+                "elink": "https://instagram.com/digital.vjti?igshid=NTdlMDg3MTY="
+            },
+            {
+                "id": 3,
+                "hname": "Collegepond Seminar",
+                "eimg": "/Assets/Allimages/Digital/Event/3.jpeg",
+                "edate": "24/01/2023",
+                "elink": "https://instagram.com/digital.vjti?igshid=NTdlMDg3MTY="
+            }
+        ],
+        "psponsors": [],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Blood Donation Camp",
+                "himg": "/Assets/Allimages/Digital/Egallery/1.JPG"
+            },
+            {
+                "id": 2,
+                "hname": "Blood Donation Camp",
+                "himg": "/Assets/Allimages/Digital/Egallery/2.JPG"
+            },
+            {
+                "id": 3,
+                "hname": "Centenary Day",
+                "himg": "/Assets/Allimages/Digital/Egallery/7.JPG"
+            },
+            {
+                "id": 4,
+                "hname": "Centenary Day",
+                "himg": "/Assets/Allimages/Digital/Egallery/10.JPG"
+            },
+            {
+                "id": 5,
+                "hname": "Centenary Day",
+                "himg": "/Assets/Allimages/Digital/Egallery/9.jpeg"
+            }
+        ],
+        "head": [
+            {
+                "id": 0,
+                "hname": "Amey Vinerkar",
+                "htitle": "Streaming Head",
+                "himg": "/Assets/Allimages/Digital/Head/Amey Vinerkar.jpeg"
+            },
+            {
+                "id": 1,
+                "hname": "Atharva Yesansure",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/Digital/Head/Atharva Yesansure.jpeg"
+            },
+            {
+                "id": 2,
+                "hname": "Harsh Kavi",
+                "htitle": "Spons and PR Head",
+                "himg": "/Assets/Allimages/Digital/Head/Harsh Kavi.jpeg"
+            },
+            {
+                "id": 3,
+                "hname": "Kalyani Kasar",
+                "htitle": "Design Head",
+                "himg": "/Assets/Allimages/Digital/Head/Kalyani Kasar.jpeg"
+            },
+            {
+                "id": 4,
+                "hname": "Nilesh Patil",
+                "htitle": "Operations Head",
+                "himg": "/Assets/Allimages/Digital/Head/Nilesh Patil.jpeg"
+            },
+            {
+                "id": 5,
+                "hname": "Paras Sutar",
+                "htitle": "Design Head",
+                "himg": "/Assets/Allimages/Digital/Head/Paras Sutar.jpeg"
+            },
+            {
+                "id": 6,
+                "hname": "Prem Nagpure",
+                "htitle": "Content Production Head",
+                "himg": "/Assets/Allimages/Digital/Head/Prem Nagpure.jpeg"
+            },
+            {
+                "id": 7,
+                "hname": "Purva Kulkarni",
+                "htitle": "Social Media and Outreach Head",
+                "himg": "/Assets/Allimages/Digital/Head/Purva Kulkarni.jpeg"
+            },
+            {
+                "id": 8,
+                "hname": "Shweta sonawane",
+                "htitle": "Social Media and Outreach Head",
+                "himg": "/Assets/Allimages/Digital/Head/Shweta sonawane.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "E-Cell",
+        "desc": "E-Cell VJTI strives to be at the forefront by promoting entrepreneurship as a career, creating holistic and synergistic environment required to inculcate strong entrepreneurial spirit in students.We at E-CELL VJTI aim to facilitate interaction between individuals with creative minds and ideas with potential for substantial business opportunities and to enable smooth and efficient interaction between its principal components spanning students, faculty, working professionals, aspiring and existing entrepreneurs, mentors, angel investors and venture capitalists.",
+        "logo": "/Assets/Allimages/ECell/Logo Ecell.png",
+        "dates": "9th February - 12th February 2023.",
+        "link": "https://www.ecellvjti.org/snc",
+        "sponsors": [
+            {
+                "id": 1,
+                "stitle": "Fyers",
+                "simg": "/Assets/Allimages/ECell/Sponsor/fyers.png"
+            },
+            {
+                "id": 2,
+                "stitle": "VJTI TBI",
+                "simg": "/Assets/Allimages/ECell/Sponsor/vjti_tbi.jpeg"
+            },
+            {
+                "id": 3,
+                "stitle": "Dare2Compete",
+                "simg": "/Assets/Allimages/ECell/Sponsor/iic_logo.png"
+            }
+        ],
+        "psponsors": [],
+        "events": [
+            {
+                "id": 1,
+                "hname": "Guest Lectures",
+                "eimg": "/Assets/Allimages/ECell/Event/guest-lecture.jpg",
+                "edescription": "Adomania is an E-cell industrial advertisement marketing event that focuses on the marketing strategy of a particular product of a company. This managerial event will provide you with an opportunity to be “the ADMAN “of the real world organization for a day.",
+                "edate": "TBD",
+                "elink": "https://www.ecellvjti.org/events"
+            },
+            {
+                "id": 2,
+                "hname": "Startup Networking Conference",
+                "eimg": "/Assets/Allimages/ECell/Event/snc.jpg",
+                "edescription": "A One stop destination where startups, mentors, investors, corporates and students from across India come together to transact business, pitch for funding and share experiences.",
+                "edate": "09-02-2023 to 12-02-2023",
+                "elink": "https://www.ecellvjti.org/events"
+            },
+            {
+                "id": 3,
+                "hname": "Startup VJTI Campaign",
+                "eimg": "/Assets/Allimages/ECell/Event/svc.jpg",
+                "edescription": "The national level business plan competition. It takes them right from initial idea formulation stage to the stage of investment and execution.",
+                "edate": "TBD",
+                "elink": "https://www.ecellvjti.org/events"
+            }
+        ],
+        "egallery": [
+            {
+                "id": 1,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/1.jpg"
+            },
+            {
+                "id": 2,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/2.webp"
+            },
+            {
+                "id": 3,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/3.jpg"
+            },
+            {
+                "id": 4,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/4.webp"
+            },
+            {
+                "id": 5,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/7.JPG"
+            },
+            {
+                "id": 6,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/8.Jpeg"
+            },
+            {
+                "id": 7,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/13.Jpeg"
+            },
+            {
+                "id": 8,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/9.webp"
+            },
+            {
+                "id": 9,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/10.webp"
+            },
+            {
+                "id": 10,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/15.JPG"
+            },
+            {
+                "id": 11,
+                "hname": "Ecell",
+                "himg": "/Assets/Allimages/ECell/Egallery/16.JPG"
+            }
+        ],
+        "head": [
+            {
+                "id": 0,
+                "hname": "Daksh Tiwari",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/ECell/Head/Daksh-min.jpg"
+            },
+            {
+                "id": 1,
+                "hname": "Om Chhajed",
+                "htitle": "Chief Sponsorship Officer",
+                "himg": "/Assets/Allimages/ECell/Head/OmC-min.jpg"
+            },
+            {
+                "id": 2,
+                "hname": "Varad",
+                "htitle": "Chief Finance Officer",
+                "himg": "/Assets/Allimages/ECell/Head/Jayesh-min.jpg"
+            },
+            {
+                "id": 3,
+                "hname": "Jayesh Nagdev",
+                "htitle": "Chief Finance Officer",
+                "himg": "/Assets/Allimages/ECell/Head/Varad-min.jpg"
+            },
+            {
+                "id": 4,
+                "hname": "Sairaj Jadhav",
+                "htitle": "Chief PR Officer",
+                "himg": "/Assets/Allimages/ECell/Head/Sairaj.jpg"
+            },
+            {
+                "id": 5,
+                "hname": "Riddhi Bhanushali",
+                "htitle": "Secretary",
+                "himg": "/Assets/Allimages/ECell/Head/RiddhiB-min.jpg"
+            },
+            {
+                "id": 6,
+                "hname": "Kunal Wadhwa",
+                "htitle": "Chief Sponsorship Officer",
+                "himg": "/Assets/Allimages/ECell/Head/KunalWadhwa.jpg"
+            }
+        ]
+    }
+]
